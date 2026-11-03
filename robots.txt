@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ancf-hue.github.io/anti-ai-qwen-academy-russian-grade9-2026-/sitemap.xml
