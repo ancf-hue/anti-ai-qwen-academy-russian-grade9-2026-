@@ -78,6 +78,3 @@
 
 
 
-## tps://github.com/ТВОЙ_НИК/anti-ai-qwen-academy-russian-grade9-2026.git
-cd anti-ai-qwen-academy-russian-grade9-2026
-# Просто открой index.html в браузере — всё!
